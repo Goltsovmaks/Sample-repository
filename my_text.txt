@@ -1,3 +1,4 @@
+Changed by other branch
 Hellow Git (changed by me)
 Second line
 Update for status
