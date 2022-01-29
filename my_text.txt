@@ -2,4 +2,8 @@ Changed by other branch
 Hellow Git (changed by me)
 Second line
 Update for status
+<<<<<<< HEAD
 fdsdfs
+=======
+he-he
+>>>>>>> new_branch
